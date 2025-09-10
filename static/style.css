@@ -55,3 +55,10 @@ button:hover {
   border: 3px solid black;
   max-width: 250px;
 }
+
+.error {
+    border: 3px solid red;
+    border-radius: 10px;
+    background-color: rgb(205, 129, 129);
+    color: black;
+}
